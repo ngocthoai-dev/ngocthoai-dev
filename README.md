@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/pnthoai165"><img src="https://api.daily.dev/devcards/2e58d3acea9c4423a59c59bbae11d506.png?r=r5n" width="400" alt="NgocThoai's Dev Card"/></a>
+<a href="https://app.daily.dev/pnthoai165"><img src="https://github.com/NgocThoaiDiv/NgocThoaiDiv/blob/main/devcard.svg" width="400" alt="NgocThoai's Dev Card"/></a>
 
 <!--
 **NgocThoaiDiv/NgocThoaiDiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
