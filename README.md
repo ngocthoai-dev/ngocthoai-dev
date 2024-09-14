@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ngocthoai-dev&show_icons=true&theme=dark" alt="ngocthoai-dev" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ngocthoai-dev&show_icons=true&theme=dark&include_all_commits=true" alt="ngocthoai-dev" />
 <div/>
 <br />
   
